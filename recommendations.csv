@@ -1,0 +1,7 @@
+Segment,Action,Metric
+Champions,VIP tier early access & wholesaler account managers (No discounts),Retention rate & Average Order Value
+Loyal,Tiered milestone loyalty program to step them up,Migration rate into Champions
+New/Promising,Automated onboarding sequence highlighting top sellers,Second-purchase rate within 30 days
+At Risk,Personalized category email + time-limited incentive vs control group,% reactivated in 60 days vs control
+Lost/Hibernating,Cheap 2-step automated win-back sequence then list removal,Win-back rate & list-cleaning savings
+Needs Attention,Proactive feedback survey + soft reminder offer,Survey response rate & short-term purchase lift
